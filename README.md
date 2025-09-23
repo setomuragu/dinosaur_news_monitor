@@ -3,7 +3,7 @@
 [![Python](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![Claude API](https://img.shields.io/badge/Claude%20API-3.5%20Haiku-green.svg)](https://www.anthropic.com/)
 [![Telegram Bot](https://img.shields.io/badge/Telegram-Bot%20API-blue.svg)](https://core.telegram.org/bots)
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+
 
 **전 세계 공룡 및 고생물학 최신 뉴스를 자동으로 수집, 번역하여 텔레그램 채널로 전송하는 AI 기반 뉴스 모니터링 봇입니다.**
 
