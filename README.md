@@ -33,4 +33,4 @@
 
 
 ## 실제 사용
-https://t.me/Dinosaru_News
+https://t.me/Dinosaur_News
