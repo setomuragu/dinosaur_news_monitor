@@ -36,7 +36,7 @@
 
 ### 1. 저장소 클론
 
-git clone https://github.com/setomuragu/dinosaur-news-monitor.git
+git clone https://github.com/setomuragu/dinosaur_news_monitor.git
 cd dinosaur-news-monitor
 
 
